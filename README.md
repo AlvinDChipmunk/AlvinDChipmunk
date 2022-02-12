@@ -40,11 +40,11 @@
 You can still reach out to me if you want 📫 at ...
 <dl>
   <dt>Cellphone (Text and call):</dt>
-    <dd><a href="tel:16193222707">1-619-322-2707</a>, US Pacific Coast time, GMT is ahead by 8 hour</dd>
+    <dd><a href="tel:16193222707">1-619-322-2707</a>, US Pacific Coast time, GMT (Greenwich Mean Time) is ahead by 8 hours</dd>
   <dt>email:</dt>
     <dd>alvinrevilas@yahoo.com</dd>
 </dl>
-And please identify yourself on Call Waiting and in email subject lines, so you don't get deleted or put into a spam folder.
+And please identify yourself on "Call Waiting" and in email subject lines, so you don't get deleted or put into a spam folder.
 
 <!---
 AlvinDChipmunk/AlvinDChipmunk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
