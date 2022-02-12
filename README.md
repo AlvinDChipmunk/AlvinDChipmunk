@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Alvin H. Revilas(GitHub ID:  @AlvinDChipmunk)
+👋 Hi, I’m Alvin H. Revilas(GitHub ID:  @AlvinDChipmunk)
 
-- 👀 I’m interested in lots of things, like...
+👀 I’m interested in lots of things, like...
 <ul>
   <li>Computer programming, including game programming.  Languages and programs used include:<br />
     <ul>
@@ -22,7 +22,7 @@
   <li>Magic tricks.  Will be making a YouTube channel for magic videos eventually</li>
 </ul>
 
-- 🌱 I’m currently (re)learning (because, well, I'm somehow doing lots of things, so gotta review to retain)...
+🌱 I’m currently (re)learning (because, well, I'm somehow doing lots of things, so gotta review to retain)...
 <ul>
   <li>
     <ul>
@@ -35,9 +35,9 @@
     </ul>
   </li>
 </ul>
-- 💞️ Right now I'm not looking to collaborate on projects yet, but ...
 
-- 📫 You can still reach out to me if you want at ...
+💞️ Right now I'm not looking to collaborate on projects yet, but...
+You can still reach out to me if you want 📫 at ...
 <dl>
   <dt>Cellphone (Text and call):</dt>
     <dd><a href="tel:16193222707">1-619-322-2707</a>, US Pacific Coast time, GMT is ahead by 8 hour</dd>
