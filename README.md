@@ -7,7 +7,7 @@
       <li>C++, C, and C#.  Got to use the XNA libraries with C# to make a senior project game.</li>
       <li>JavaScript, with HTML and CSS and PHP</li>
       <li>Java, and right now in a Java Programming boot camp</li>
-      <li>Studied and used both Unreal and Unity game engines.  Working on something using Unreal, but first need to buy flight sticks and other controller for that.</li>
+      <li>Studied and used both Unreal and Unity game engines.  Working on something using Unreal, but first need to buy flight sticks and other controllers for that.</li>
     </ul>
   </li>
   <li>Renaissance Faires.  Because of that, I'm involved with:<br />
