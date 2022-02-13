@@ -16,6 +16,8 @@
       <li>Medieval European history, via the Renaissance Faire guild I am a part of</li>
       <li>Leatherworking</li>
       <li>Armor making.  I've made at least 4 suits of leather and one of steel metal plate</li>
+      <li>and...Movie making? A friend of a friend needed help, so I've made armor and weapon props for several movie scenes.  
+        So, since those were paid gigs, that technically makes me having professional experience in that too.</li>
     </ul>
   </li>
   <li>Model aviation.  Balsa and tissue paper, now brancing out to RC</li>
@@ -37,14 +39,16 @@
 </ul>
 
 💞️ Right now I'm not looking to collaborate on projects yet, but...
-You can still reach out to me if you want 📫 at ...
+If you have a possible paying job offer 💰, you can contact me 📫 at ...
 <dl>
   <dt>Cellphone (Text and call):</dt>
-    <dd><a href="tel:16193222707">1-619-322-2707</a>, US Pacific Coast time, GMT (Greenwich Mean Time) is ahead by 8 hours</dd>
+    <dd><a href="tel:16193222707">1-619-322-2707</a>, US Pacific Coast time.<br />
+  GMT (Greenwich Mean Time) is ahead of me by 8 hours<br />
+  Time reference example:  If it's 4PM on the US East Coast, then it's 1PM at my home</dd>
   <dt>email:</dt>
     <dd>alvinrevilas@yahoo.com</dd>
 </dl>
-And please identify yourself on "Call Waiting" and in email subject lines, so you don't get deleted or put into a spam folder.
+And please identify yourself in Caller ID settings and in email subject lines, so you don't get deleted or put into a spam folder.
 
 <!---
 AlvinDChipmunk/AlvinDChipmunk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
