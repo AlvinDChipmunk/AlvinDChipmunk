@@ -4,7 +4,8 @@
 <ul>
   <li>Computer programming, including game programming.  Languages and programs used include:<br />
     <ul>
-      <li>C++, C, and C#.  Got to use the XNA libraries with C# to make a senior project game.</li>
+      <li>C++, C, and C#.  Got to use the XNA libraries with C# to make a senior project game.  Link can be found here:<br />
+        <a href="https://github.com/AlvinDChipmunk/FanWoolf">FanWoolf video game</a> (installable on Windows computers)</li>
       <li>JavaScript, with HTML and CSS and PHP</li>
       <li>Java, and right now in a Java Programming boot camp</li>
       <li>Studied and used both Unreal and Unity game engines.  Working on something using Unreal, but first need to buy flight sticks and other controllers for that.</li>
