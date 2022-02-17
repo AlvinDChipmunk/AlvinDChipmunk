@@ -49,7 +49,7 @@ If you have a possible paying job offer 💰, you can contact me 📫 at ...
   <dt>E-Mail:</dt>
     <dd><a href="mailto:alvinrevilas@yahoo.com?Subject=Email%20from%20GitHub%20portfolio%20website">alvinrevilas@yahoo.com</a></dd>
   <dt>Web Site:</dt>
-  <dd><a href="http://http://www.cognosislabs.com/">www.cognosislabs.com</a></dd>
+  <dd><a href="http://www.cognosislabs.com/">www.cognosislabs.com</a></dd>
 </dl>
 And please identify yourself in Caller ID settings and in email subject lines, so you don't get deleted or put into a spam folder.
 
