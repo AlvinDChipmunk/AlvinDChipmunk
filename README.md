@@ -46,8 +46,10 @@ If you have a possible paying job offer 💰, you can contact me 📫 at ...
     <dd><a href="tel:16193222707">1-619-322-2707</a>, US Pacific Coast time.<br />
   GMT (Greenwich Mean Time) is ahead of me by 8 hours<br />
   Time reference example:  If it's 4PM on the US East Coast, then it's 1PM at my home</dd>
-  <dt>email:</dt>
-    <dd>alvinrevilas@yahoo.com</dd>
+  <dt>E-Mail:</dt>
+    <dd><a href="mailto:alvinrevilas@yahoo.com?Subject=Email%20from%20GitHub%20portfolio%20website">alvinrevilas@yahoo.com</a></dd>
+  <dt>Web Site:</dt>
+  <dd><a href="http://http://www.cognosislabs.com/">www.cognosislabs.com</a></dd>
 </dl>
 And please identify yourself in Caller ID settings and in email subject lines, so you don't get deleted or put into a spam folder.
 
